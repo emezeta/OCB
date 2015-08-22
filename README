@@ -10,6 +10,7 @@ Installation on Debian Ubuntu
 -----------------------------
 
 Download .deb file from:
+
      http://nightly.odoo.com/old/openerp-6.1/
 
 then type:
@@ -46,7 +47,7 @@ default master password is "admin".
 Detailed System Requirements
 ----------------------------
 
-*You need the following software installed*:
+You need the following software installed:
 
  postgresql-client, python-dateutil, python-feedparser, python-gdata,
  python-ldap, python-libxslt1, python-lxml, python-mako, python-openid,
