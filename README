@@ -9,22 +9,15 @@ Customer Relationship Management software. More info at:
 Installation on Debian Ubuntu
 -----------------------------
 
-Download the deb file and type:
+Download .deb file from:
+
+     http://nightly.odoo.com/old/openerp-6.1/
+
+then type:
 
     $ sudo dpkg -i <openerp-deb-filename>
     $ sudo apt-get install install -f
 
-Installation on Debian Ubuntu from nightly build
-------------------------------------------------
-
-Add the the apt repository
-
-    deb http://nightly.openerp.com/6.1/deb/ ./
-
-in your source.list and type:
-
-    $ sudo apt-get update
-    $ sudo apt-get install openerp
 
 Installation on RedHat, Fedora, CentOS
 --------------------------------------
@@ -60,10 +53,8 @@ You need the following software installed:
  python-ldap, python-libxslt1, python-lxml, python-mako, python-openid,
  python-psycopg2, python-pybabel, python-pychart, python-pydot,
  python-pyparsing, python-reportlab, python-simplejson, python-tz,
- python-vatnumber, python-vobject, python-webdav, python-werkzeug, python-xlwt,
- python-yaml, python-zsi
+ python-vatnumber, python-vobject, python-webdav, python-werkzeug, 
+ python-xlwt, python-yaml, python-zsi
 
-For Luxembourg localization, you also need:
 
- pdftk (http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/)
-
+ emezeta tag->branch
