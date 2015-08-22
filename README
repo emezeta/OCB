@@ -53,8 +53,8 @@ You need the following software installed:
  python-ldap, python-libxslt1, python-lxml, python-mako, python-openid,
  python-psycopg2, python-pybabel, python-pychart, python-pydot,
  python-pyparsing, python-reportlab, python-simplejson, python-tz,
- python-vatnumber, python-vobject, python-webdav, python-werkzeug, python-xlwt,
- python-yaml, python-zsi
+ python-vatnumber, python-vobject, python-webdav, python-werkzeug, 
+ python-xlwt, python-yaml, python-zsi
 
 
  emezeta tag->branch
